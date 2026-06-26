@@ -1,2 +1,2 @@
-# cybersecurity-portfolio
-CTF writeups, cybersec projects, professional portfolio
+# CTF Writeups
+CTF writeups
